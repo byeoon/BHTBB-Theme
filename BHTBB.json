@@ -1,7 +1,7 @@
 {
 	"name": "Byron Has To Be Blue",
 	"author": "byron",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Everything must be blue !!",
 	"authors": [ 
 		{
@@ -16,9 +16,9 @@
 	"theme_color_map": {
 		"KEYBOARD": ["#070236", "#070236"],
 		"BACKGROUND_PRIMARY": ["#050033", "#050033"],
-		"BACKGROUND_SECONDARY": ["#1a154a", "#1a154a"],
-		"BACKGROUND_SECONDARY_ALT": ["#1a154a", "#1a154a"],
-		"BACKGROUND_TERTIARY": ["#2e154a", "#2e154a"],
+		"BACKGROUND_SECONDARY": ["#352491", "#352491"],
+		"BACKGROUND_SECONDARY_ALT": ["#261585", "#261585"],
+		"BACKGROUND_TERTIARY": ["#36215e", "#36215e"],
 		"BACKGROUND_ACCENT": ["#1a154a", "#1a154a"],
 		"BACKGROUND_FLOATING": ["#554d8f", "#554d8f"],
 		"BACKGROUND_NESTED_FLOATING": ["#28215e", "#FFFFFF"],
@@ -28,7 +28,7 @@
 		"BACKGROUND_MODIFIER_ACTIVE": ["#24196e", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#150c4f", "#FFFFFF"],
 		"CHANNELS_DEFAULT": ["#4d419c", "#4d419c"],
-		"HEADER_PRIMARY": ["#120469", "#FFFFFF"],
+		"HEADER_PRIMARY": ["#4037bd", "#4037bd"],
 		"HEADER_SECONDARY": ["#372694", "#FFFFFF"],
 		"INTERACTIVE_ACTIVE": ["#12007a", "#FFFFFF"],
 		"INTERACTIVE_MUTED": ["#000000", "#FFFFFF"],
@@ -42,7 +42,7 @@
 		"PRIMARY_DARK_100": "#312787",
 		"PRIMARY_DARK_300": "#2a1f91",
 		"PRIMARY_DARK_360": "#9b75d1",
-		"PRIMARY_DARK_400": "#FFFFFF",
+		"PRIMARY_DARK_400": "#4d489c",
 		"PRIMARY_DARK_500": "#FFFFFF",
 		"PRIMARY_DARK_600": "#FFFFFF",
 		"PRIMARY_DARK_630": "#FFFFFF",
