@@ -11,7 +11,7 @@
 	"background": {
 		"blur": "1",
 		"url": "https://fibr.social/assets/Fibr.png",
-		"alpha": "0.69"
+		"alpha": "0.4"
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#FFFFFF"],
