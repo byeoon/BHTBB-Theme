@@ -1,8 +1,8 @@
 {
 	"name": "Byron Has To Be Blue",
 	"author": "byron",
-	"version": "1.0",
-	"description": "Work in progress",
+	"version": "1.0.0",
+	"description": "Everything must be blue !!",
 	"authors": [ 
 		{
 			"name": "byron"
@@ -15,15 +15,15 @@
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#070236", "#FFFFFF"],
-		"BACKGROUND_PRIMARY": ["#070047", "#FFFFFF"],
-		"BACKGROUND_SECONDARY": ["#3224ad", "#FFFFFF"],
-		"BACKGROUND_SECONDARY_ALT": ["#000000", "#FFFFFF"],
-		"BACKGROUND_TERTIARY": ["#000000", "#FFFFFF"],
-		"BACKGROUND_ACCENT": ["#000000", "#FFFFFF"],
-		"BACKGROUND_FLOATING": ["#000000", "#FFFFFF"],
-		"BACKGROUND_NESTED_FLOATING": ["#000000", "#FFFFFF"],
-		"BACKGROUND_MOBILE_PRIMARY": ["#000000", "#FFFFFF"],
-		"BACKGROUND_MOBILE_SECONDARY": ["#000000", "#FFFFFF"],
+		"BACKGROUND_PRIMARY": ["#050033", "#FFFFFF"],
+		"BACKGROUND_SECONDARY": ["#1a154a", "#FFFFFF"],
+		"BACKGROUND_SECONDARY_ALT": ["#1a154a", "#FFFFFF"],
+		"BACKGROUND_TERTIARY": ["#2e154a", "#FFFFFF"],
+		"BACKGROUND_ACCENT": ["#1a154a", "#FFFFFF"],
+		"BACKGROUND_FLOATING": ["#554d8f", "#FFFFFF"],
+		"BACKGROUND_NESTED_FLOATING": ["#28215e", "#FFFFFF"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#050033", "#FFFFFF"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#19124d", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_ACCENT": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
@@ -35,10 +35,10 @@
 		"INTERACTIVE_NORMAL": ["#000000", "#FFFFFF"],
 		"TEXT_LINK": ["#000000", "#FFFFFF"],
 		"TEXT_MUTED": ["#000000", "#FFFFFF"],
-		"TEXT_NORMAL": ["#aba2fc", "#FFFFFF"]
+		"TEXT_NORMAL": ["#7c6fde", "#FFFFFF"]
 	},
 	"colours": {
-		"PRIMARY_DARK": "#210dd4",
+		"PRIMARY_DARK": "#7c6fde",
 		"PRIMARY_DARK_100": "#312787",
 		"PRIMARY_DARK_300": "#2a1f91",
 		"PRIMARY_DARK_360": "#FFFFFF",
